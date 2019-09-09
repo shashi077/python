@@ -27,3 +27,5 @@ print ( a , b )
 a = "python"
 print (a[-2])
 
+a = "python"
+print (a[1:-2])
