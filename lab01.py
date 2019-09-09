@@ -23,7 +23,7 @@ b = a - b
 a = a - b
 
 print ( a , b )
-a = "python"
 
+a = "python"
 print (a[-2])
 
